@@ -60,5 +60,21 @@
                 {{ __('Register') }}
             </x-primary-button>
         </div>
+
+        <div class="flex items-center justify-center mt04">
+
+            <span class="text-xl text-white"> Register with </span>
+             <x-button class="ml-3">
+              @svg('bi-google')
+             </x-button>
+
+             <x-button class="ml-3">
+                 @svg('bi-facebook')
+             </x-button>
+
+             <x-button class="ml-3">
+                @svg('bi-x-circle')
+            </x-button>
+         </div>
     </form>
 </x-guest-layout>
