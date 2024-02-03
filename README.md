@@ -94,7 +94,27 @@ Inside the `<head>` tag:
 Inside the `<body>` tag:
 `@cookieconsentview:` used to render the alert or pop-up view.
 
+## Contributing
 
+We welcome contributions from the community. Here are some ways you can contribute to this project:
+
+1. **Report Bugs**: If you find a bug in the source code, you can help us by submitting an issue to our GitHub repository. Even better, you can submit a Pull Request (PR) with a fix.
+
+2. **Request Features**: If you have a feature request, please submit an issue to our GitHub repository. This will help us track the requests and prioritize their implementation.
+
+3. **Improve Documentation**: If you find any errors, inconsistencies, or improvements in the documentation, you can help us by submitting an issue or a Pull Request with the necessary changes.
+
+4. **Submit Pull Requests**: If you have improvements to the codebase, you can submit a Pull Request. Make sure to follow the guidelines below before submitting a Pull Request:
+
+   - Fork the repository and create a new branch for your changes.
+   - Ensure that your changes pass the existing tests and lint checks.
+   - Add new tests or update existing tests to cover your changes.
+   - Update the documentation to reflect your changes.
+   - Submit a Pull Request with a clear description of your changes.
+
+5. **Join the Community**: If you're interested in contributing regularly, consider joining our community. This will give you access to our chat platform, where you can ask questions, share ideas, and collaborate with other contributors.
+
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to follow this code and treat each other with respect.
 
 
 
