@@ -60,7 +60,5 @@
                 @svg('bi-x-circle')
             </x-button>
         </div>
-
-
-    </form>
+       </form>
 </x-guest-layout>
