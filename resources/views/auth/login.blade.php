@@ -67,7 +67,5 @@
         </div>
 
         </div>
-
-
-    </form>
+       </form>
 </x-guest-layout>
