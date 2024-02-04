@@ -45,20 +45,27 @@
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
-        <div class="flex items-center justify-center mt04">
 
-           <span class="text-sl text-white"> Login with </span>
-            <x-button class="ml-3">
+        <!-- Social login -->
+
+        <div class="flex flex-col space-y-10">
+
+           <span class="text-auto"> Login with </span>
+        <div class="flex justify-between">
+           <x-primary-button>
              @svg('bi-google')
-            </x-button>
+            </x-primary-button>
 
-            <x-button class="ml-3">
+
+            <x-primary-button>
                 @svg('bi-facebook')
-            </x-button>
+            </x-primary-button>
 
-            <x-button class="ml-3">
+            <x-primary-button>
                 @svg('bi-x-circle')
-            </x-button>
+            </x-primary-button>
+        </div>
+
         </div>
 
 

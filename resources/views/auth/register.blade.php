@@ -61,20 +61,22 @@
             </x-primary-button>
         </div>
 
-        <div class="flex items-center justify-center mt04">
+        <div class="flex flex-col space-y-10">
 
-            <span class="text-xl text-white"> Register with </span>
-             <x-button class="ml-3">
+            <span class="text-auto"> Register with </span>
+         <div class="flex justify-between">
+            <x-primary-button>
               @svg('bi-google')
-             </x-button>
+             </x-primary-button>
 
-             <x-button class="ml-3">
+
+             <x-primary-button>
                  @svg('bi-facebook')
-             </x-button>
+             </x-primary-button>
 
-             <x-button class="ml-3">
-                @svg('bi-x-circle')
-            </x-button>
+             <x-primary-button>
+                 @svg('bi-x-circle')
+             </x-primary-button>
          </div>
     </form>
 </x-guest-layout>
