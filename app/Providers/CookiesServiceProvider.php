@@ -19,9 +19,10 @@ class CookiesServiceProvider extends ServiceProvider
             ->csrf();
 
         /* Register all Analytics cookies at once using one single shorthand method:
+*/        
         Cookies::analytics()
-            ->google(env('GOOGLE_ANALYTICS_ID'));
-        */
+           ->google(env('GOOGLE_ANALYTICS_ID'));
+        
         // Register custom cookies under the pre-existing "optional" category:
         Cookies::optional()
             ->name('darkmode_enabled')
