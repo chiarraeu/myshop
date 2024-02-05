@@ -49,6 +49,6 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 ## If you like like our work you can support us
 
-<a href="https://www.buymeacoffee.com/chiarraeu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chiarraeu){:target="_blank"}
 
 ### Made with ❤️ for open source. Happy coding! 
